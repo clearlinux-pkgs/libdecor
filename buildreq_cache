@@ -1,4 +1,4 @@
-0.2.0
+0.2.1
 dbus-dev
 pkgconfig(dbus-1)
 pkgconfig(gtk+-3.0)
